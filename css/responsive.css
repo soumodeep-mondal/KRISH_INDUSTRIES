@@ -1,0 +1,230 @@
+@media(max-width:1199px){
+    .splash{
+        width: 150px !important;
+        margin-left: 30% !important;
+    }
+    
+    .contents h1 {
+        font-size: 73px !important;
+    }
+    .headings h2 {
+        font-size: 30px !important;        
+    }
+    .headings h3 {        
+        font-size: 26px !important;       
+    }
+    .line1 span {        
+        font-size: 25px !important;       
+    }
+    .list li span {
+        font-size: 16px !important;       
+    }
+    .head {        
+        font-size: 30px !important;       
+    }
+    .head1 {        
+        font-size: 30px !important;       
+    }
+    .wel_list li span {
+        font-size: 16px !important;
+    }
+    
+}
+@media(max-width:991px){
+    .contents h1 {
+        font-size: 54px !important;
+    }
+    .contents h4 {
+        font-size: 21px !important;
+    }
+    .splash {
+        width: 105px !important;
+        margin-left: 43% !important;
+    }
+    .third {
+         padding-left: 0px !important; 
+    }
+    .my_nav li a {        
+        margin: 3px 25px !important;        
+    }
+    .main{
+        display: none !important;
+    }
+    .wel_list {
+        text-align: center;
+    }    
+    .wel_details h2 {
+        font-size: 26px !important;
+        text-align: center !important;
+        margin: 15px 0;
+    }
+    .abt-para h2 {
+        font-size: 26px !important;
+    }
+    .prd-btn {
+        margin-top: 25px !important;
+    }
+    .gall_img{
+        height:auto !important;
+    }
+     .tag{
+        text-align: center !important;
+     }  
+     .left_it a {
+        float: initial !important;       
+    }
+    .top{
+        text-align: center !important;
+    }
+    .wel_list li {
+        margin: 17px 0 !important;       
+    }
+    .column{
+        flex: 0 0 50% !important;
+        max-width:50% !important;
+      }
+      .flowchart img{
+        width:100% !important;
+      }
+      .testi h3 {       
+        font-size: 24px !important;
+    }
+    .tag{
+        font-size: 16px !important;
+        float: left;        
+    }
+    .foot_details{
+        border-right: none !important;
+    }
+    .banner{
+        min-height: 0 !important;
+    }
+    
+}
+
+@media(max-width:767px){
+    .contents {        
+        top: 3% !important;        
+    }
+    .splash {
+        width: 116px !important;
+        margin-left: 24% !important;
+    }
+    .tag{
+        font-size: 16px !important;
+    }
+    .wel_list li span {
+        font-size: 16px !important;
+    }
+   
+    .know {
+         margin:0 !important;
+    }
+    .testi p {
+        font-size: 15px !important;        
+    }
+    .foot_details{
+        height:40px !important;
+    }
+}
+@media(max-width:575px){
+    .contents h1 {
+        font-size: 41px !important;
+    }
+    .contents h4 {
+        font-size: 17px !important;
+    }
+    .splash {
+        width: 105px !important;
+        margin-left: 37% !important;
+    }
+    .wel_details p {      
+        font-size: 14px !important;       
+    }
+    .wel_details h2 {
+        font-size: 23px !important;       
+    }
+    .abt-para h2 {
+        font-size: 23px !important;
+    }
+    .headings h2 {
+        font-size: 24px !important;
+        text-align: center !important;
+    }
+    .headings h3 {
+        font-size: 20px !important;
+    }
+    .line {
+        font-size: 16px !important;       
+    }
+    .line1 {
+        font-size: 16px !important;        
+    }
+    .line1 span {
+        font-size: 20px !important;
+    }
+    .bottle img {
+        width: 30% !important;
+    }
+    .head {
+        font-size: 24px !important;
+    }
+    .head1 {
+        font-size: 26px !important;
+    }
+    .foot_details a {      
+        font-size: 14px !important;
+    }
+    .foot_details h3 {        
+        font-size: 21px !important;
+    }
+    .products {       
+        padding: 115px 0 !important;
+    }
+    .wel_list{
+        display: initial !important;
+    }
+    .testi h3 {
+        font-size: 22px !important;
+    }
+    .man{
+        top:46% !important;
+    }
+    .respon-mar{
+        margin-top: 57% !important;
+      }
+    
+}
+@media(max-width:480px){
+    .contents h1 {
+        font-size: 31px !important;
+    }
+    .contents h4 {
+        font-size: 13px !important;
+    }
+    .splash {
+        width: 75px !important;
+        margin-left: 39% !important;
+    }
+}
+@media(max-width:375px){
+    .contents h1 {
+        font-size: 26px !important;
+    }
+    .column{
+        flex: 0 0 100% !important;
+        max-width:100% !important;
+      }
+      .respon-mar {
+        margin-top: 74% !important;
+    }
+}
+@media(max-width:320px){
+    .splash {
+        width: 45px !important;
+        margin-left: 39% !important;
+    }
+    .respon-mar {
+        margin-top: 118% !important;
+    }
+}
